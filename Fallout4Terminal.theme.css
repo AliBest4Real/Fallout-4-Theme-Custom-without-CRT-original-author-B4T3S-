@@ -14,6 +14,7 @@
 @import url('https://B4T3S.github.io/Fallout4TerminalTheme/mainRewrite.css');
 /* ^ This is the main Import ^ DO NOT TOUCH. Without this, the theme won't load!!! */
 
+@import url('https://B4T3S.github.io/Fallout4TerminalTheme/css/crtEffect.css');
 
 /* CUSTOMIZE COLORS IN HERE! */
 :root {
