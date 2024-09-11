@@ -16,6 +16,7 @@
 
 @import url('https://B4T3S.github.io/Fallout4TerminalTheme/css/crtEffect.css');
 * ^ This is the CRT effect. If you don't like it, remove or uncomment this line! ^ *
+
 /* CUSTOMIZE COLORS IN HERE! */
 :root {
   --rgb-highlight: 74, 239, 152; /* The main highlight color */
